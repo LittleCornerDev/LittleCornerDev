@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LittleCornerDev!  I am a Senior Software Engineer, primarily as full stack web developer.
+- 👋 Hi, I’m @LittleCornerDev!  I am a Senior Software Engineer, with 10+ years experience as full stack web developer.
 - 🌱 I’m currently learning about app development using Xamarin.Forms and C#.
 - 👀 I’m interested in learning more about game development, machine learning, and augmented reality.
 <!---
