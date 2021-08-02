@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LittleCornerDev!  I am a Senior Software Engineer, with 10+ years experience as full stack web developer.
-- 🌱 I’m currently learning about app development using Xamarin.Forms and C#.
-- 👀 I’m interested in learning more about game development, machine learning, and augmented reality.
+- 👋 Hi, I’m @LittleCornerDev!  I am a Senior Software Engineer, with 10+ years experience as a full stack web developer.
+- 🌱 I’m currently learning about cross-platform app development using Xamarin.Forms and C#.
+- 👀 I’m also interested in learning more about game development, machine learning, and augmented reality.
 <!---
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on fun and dynamic projects
 - 📫 How to reach me ...
 
 
