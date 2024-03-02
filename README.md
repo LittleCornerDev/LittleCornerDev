@@ -7,11 +7,15 @@
 --->
 
 ## Stats
-![Repo Stats](https://github-readme-stats.vercel.app/api?username=LittleCornerDev&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleCornerDev&theme=blue-green)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LittleCornerDev&theme=tokyonight-duo&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
+
+![Repo Stats](https://github-readme-stats.vercel.app/api?username=littlecornerdev&show_icons=true&hide_rank=true&theme=tokyonight&bg_color=00000000&hide_border=true)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleCornerDev&layout=pie)-->
+
 
 ## Random Joke
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBoder&theme=tokyonight)
 
 <!---
 LittleCornerDev/LittleCornerDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
