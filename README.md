@@ -17,7 +17,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleCornerDev&layout=pie)-->
 
 
-## Random Joke
+## Random Tech Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBoder&theme=tokyonight)
 
 <!---
